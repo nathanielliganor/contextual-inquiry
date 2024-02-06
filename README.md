@@ -2,7 +2,7 @@
 
 In this project, I delve into the challenges surrounding aging water infrastructure in Michigan, extending beyond physical aspects to explore societal conequences. The overarching goal is to address these challenges through community education, improved communication, and diversified stakeholder engagement for a more sustainable water instrastructure in Michigan.
 
-<img width="372" alt="Screenshot 2024-02-05 at 8 04 14 PM" src="https://github.com/nathanielliganor/contextual-inquiry/assets/145381791/77638053-8f95-4ec9-96ee-fb5806cd497e"> **[Project Presentation](https://github.com/nathanielliganor/contextual-inquiry/blob/main/Contextual%20Inquiry%20Presentation.pdf)
+**[Project Presentation](https://github.com/nathanielliganor/contextual-inquiry/blob/main/Contextual%20Inquiry%20Presentation.pdf) <img width="372" alt="Screenshot 2024-02-05 at 8 04 14 PM" src="https://github.com/nathanielliganor/contextual-inquiry/assets/145381791/77638053-8f95-4ec9-96ee-fb5806cd497e">
 
 
 The project provides a comprehensive overview of Michigan's pressing challenge: an aging water system infrastructure coupled with a critical lack of awareness among residents, particularly in vulnerable communities. This lack of awareness intersects with socio-economic factors, creating a diverse set of infrastructure and information needs. The presentation highlights the detrimental impact of misinformation, leading to confusion, skepticism, and a decline in trust in public officials, reminiscent of past crises like the Flint Water Crisis.
